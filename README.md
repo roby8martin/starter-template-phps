@@ -14,6 +14,7 @@ Il template HTML - PHP gia intergeto perfetto per iniziare un sito web ora anche
 ## 👨‍💻 Come utilizzarlo 
 
 Aprite la cartella 📂 del vostro Web Server (htdocs se usate XAMPP) e inizate a modificare il codice come meglio volete👨‍💻.
+La password di accesso salvata nella tabella utenti è admin12345.
 
 ## 🧑‍💻 Crediti
 
