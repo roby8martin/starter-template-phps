@@ -1,7 +1,5 @@
 <?php
-
 use PhpMyAdmin\Server\Select;
-
   include 'sito/struttura.php';
   include 'sito/navbar.php';
   include 'sito/error.php';
