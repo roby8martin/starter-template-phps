@@ -1,6 +1,6 @@
 # starter-template-phps 🏁
 
-Il template HTML - PHP gia intergeto perfetto per iniziare un sito web ora anche con accessi via WEB tramite DATABASE MySQL e pagina per visulaizzare gli utenti.
+Il template HTML - PHP già intergeto perfetto per iniziare un sito web ora anche con accessi via WEB tramite DATABASE MySQL e pagina per visulaizzare gli utenti.
 
 
 ## ⚙️ Caratteristiche 
